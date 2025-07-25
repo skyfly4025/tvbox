@@ -48,6 +48,14 @@
 			"name": "51吸瓜(T3)",
 			"type": 3,
 			"api": "./py//51吸瓜.py"
+			"searchable": 1,
+                        "quickSearch": 1,
+                        "filterable": 1,
+                        "changeable": 1
+                        "proxy": {
+                        "http": "http://127.0.0.1:10172",
+                        "https": "http://127.0.0.1:10172"
+                         }
 		},
 		{
 			"key": "py_DSYS",
