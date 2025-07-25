@@ -350,7 +350,7 @@
 			"name": "MissAV",
 			"type": 3,
 			"api": "csp_Miss",
-			"ext": "noproxy",
+			"ext": "proxy",
 			"searchable": 1,
 			"recordable": 0,
 			"timeout": 60,
