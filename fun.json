@@ -47,7 +47,7 @@
 			"key": "py_51吸瓜",
 			"name": "51吸瓜(T3)",
 			"type": 3,
-			"api": "./py//51吸瓜.py"
+			"api": "./py/51吸瓜.py"
 			"searchable": 1,
                         "quickSearch": 1,
                         "filterable": 1,
@@ -67,7 +67,7 @@
 			"key": "py_Miss",
 			"name": "Miss(T3)",
 			"type": 3,
-			"api": "https://raw.githubusercontent.com/JJBJJ/PyramidStore/refs/heads/main/plugin/adult/Miss.py"
+			"api": "./py/Miss.py"
 		},
 		{
 			"key": "py_Phb",
