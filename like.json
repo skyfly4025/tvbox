@@ -1,8 +1,7 @@
 {
     "spider": "./pg.jar",
     "sites": [
-      
-{
+      {
     "key": "MissAV",
     "name": "MissAV",
     "type": 3,
